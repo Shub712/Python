@@ -1,0 +1,22 @@
+# Procedural
+
+def CheckEven(No):
+    return (No % 2 == 0)
+  
+
+def main():
+    Value = 0
+    Ret = False
+
+    print("Enter The number : ")
+    Value = int (input())
+    
+    Ret = CheckEven(Value)
+
+    if(Ret == True):
+        print("it is even number")
+    else:
+        print("it is odd number") 
+
+if(__name__ == "__main__"):
+    main()
