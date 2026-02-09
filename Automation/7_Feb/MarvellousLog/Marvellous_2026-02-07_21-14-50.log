@@ -1,0 +1,2862 @@
+----------------------------------------------------
+------ Marvellous Platform Surveillance System -----
+Log Created At : Sat Feb  7 21:14:50 2026
+----------------------------------------------------
+
+----------------- System Report -------------------
+CPU usage : 0.6 %
+----------------------------------------------------
+RAM Usage : 27.1 %
+----------------------------------------------------
+
+Disk Usage Report
+----------------------------------------------------
+/ -> 21.2 % Used
+/snap/bare/5 -> 100.0 % Used
+/snap/core18/2979 -> 100.0 % Used
+/snap/core18/2976 -> 100.0 % Used
+/snap/core22/2216 -> 100.0 % Used
+/snap/core24/1267 -> 100.0 % Used
+/snap/core22/2292 -> 100.0 % Used
+/snap/core24/1349 -> 100.0 % Used
+/snap/firefox/7720 -> 100.0 % Used
+/snap/firefox/7766 -> 100.0 % Used
+/snap/gnome-42-2204/247 -> 100.0 % Used
+/snap/gnome-42-2204/226 -> 100.0 % Used
+/snap/gtk-common-themes/1535 -> 100.0 % Used
+/snap/intellij-idea-community/697 -> 100.0 % Used
+/snap/intellij-idea-community/709 -> 100.0 % Used
+/snap/postman/360 -> 100.0 % Used
+/snap/snap-store/1113 -> 100.0 % Used
+/snap/snap-store/1216 -> 100.0 % Used
+/snap/snapd/25577 -> 100.0 % Used
+/snap/snapd/25935 -> 100.0 % Used
+/snap/snapd-desktop-integration/343 -> 100.0 % Used
+/snap/snapd-desktop-integration/315 -> 100.0 % Used
+/snap/terminal-parrot/92 -> 100.0 % Used
+/snap/terminal-parrot/98 -> 100.0 % Used
+/boot/efi -> 2.7 % Used
+----------------------------------------------------
+Network Usage Report
+Sent : 10.68 MB
+Received : 15.23 MB
+----------------------------------------------------
+PID : 1
+Name : systemd
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.08
+----------------------------------------------------
+PID : 2
+Name : kthreadd
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 3
+Name : pool_workqueue_release
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 4
+Name : kworker/R-rcu_g
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 5
+Name : kworker/R-rcu_p
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 6
+Name : kworker/R-slub_
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 7
+Name : kworker/R-netns
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 9
+Name : kworker/0:0H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 12
+Name : kworker/R-mm_pe
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 13
+Name : rcu_tasks_kthread
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 14
+Name : rcu_tasks_rude_kthread
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 15
+Name : rcu_tasks_trace_kthread
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 16
+Name : ksoftirqd/0
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 17
+Name : rcu_preempt
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 18
+Name : migration/0
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 19
+Name : idle_inject/0
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 20
+Name : cpuhp/0
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 21
+Name : cpuhp/2
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 22
+Name : idle_inject/2
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 23
+Name : migration/2
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 24
+Name : ksoftirqd/2
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 26
+Name : kworker/2:0H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 27
+Name : cpuhp/4
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 28
+Name : idle_inject/4
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 29
+Name : migration/4
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 30
+Name : ksoftirqd/4
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 32
+Name : kworker/4:0H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 33
+Name : cpuhp/6
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 34
+Name : idle_inject/6
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 35
+Name : migration/6
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 36
+Name : ksoftirqd/6
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 38
+Name : kworker/6:0H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 39
+Name : cpuhp/8
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 40
+Name : idle_inject/8
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 41
+Name : migration/8
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 42
+Name : ksoftirqd/8
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 44
+Name : kworker/8:0H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 45
+Name : cpuhp/9
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 46
+Name : idle_inject/9
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 47
+Name : migration/9
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 48
+Name : ksoftirqd/9
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 50
+Name : kworker/9:0H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 51
+Name : cpuhp/10
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 52
+Name : idle_inject/10
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 53
+Name : migration/10
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 54
+Name : ksoftirqd/10
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 56
+Name : kworker/10:0H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 57
+Name : cpuhp/11
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 58
+Name : idle_inject/11
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 59
+Name : migration/11
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 60
+Name : ksoftirqd/11
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 62
+Name : kworker/11:0H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 63
+Name : cpuhp/1
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 64
+Name : idle_inject/1
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 65
+Name : migration/1
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 66
+Name : ksoftirqd/1
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 68
+Name : kworker/1:0H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 69
+Name : cpuhp/3
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 70
+Name : idle_inject/3
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 71
+Name : migration/3
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 72
+Name : ksoftirqd/3
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 74
+Name : kworker/3:0H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 75
+Name : cpuhp/5
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 76
+Name : idle_inject/5
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 77
+Name : migration/5
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 78
+Name : ksoftirqd/5
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 80
+Name : kworker/5:0H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 81
+Name : cpuhp/7
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 82
+Name : idle_inject/7
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 83
+Name : migration/7
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 84
+Name : ksoftirqd/7
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 86
+Name : kworker/7:0H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 87
+Name : kdevtmpfs
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 88
+Name : kworker/R-inet_
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 89
+Name : kauditd
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 90
+Name : khungtaskd
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 91
+Name : oom_reaper
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 93
+Name : kworker/R-write
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 94
+Name : kcompactd0
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 95
+Name : ksmd
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 96
+Name : khugepaged
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 97
+Name : kworker/R-kinte
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 98
+Name : kworker/R-kbloc
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 99
+Name : kworker/R-blkcg
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 102
+Name : irq/9-acpi
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 106
+Name : kworker/R-tpm_d
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 107
+Name : kworker/R-ata_s
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 108
+Name : kworker/R-md
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 109
+Name : kworker/R-md_bi
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 110
+Name : kworker/R-edac-
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 111
+Name : kworker/R-devfr
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 112
+Name : watchdogd
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 114
+Name : kworker/9:1H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 115
+Name : kswapd0
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 116
+Name : ecryptfs-kthread
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 117
+Name : kworker/R-kthro
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 118
+Name : irq/122-pciehp
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 119
+Name : kworker/R-acpi_
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 122
+Name : hwrng
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 123
+Name : kworker/R-hfi-u
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 124
+Name : kworker/R-mld
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 125
+Name : kworker/4:1H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 126
+Name : kworker/R-ipv6_
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 129
+Name : kworker/7:1-events
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 136
+Name : kworker/R-kstrp
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 153
+Name : kworker/R-charg
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 173
+Name : kworker/11:1H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 182
+Name : kworker/0:1H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 190
+Name : kworker/6:1H
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 191
+Name : kworker/8:1H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 192
+Name : kworker/7:1H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 193
+Name : kworker/10:1H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 194
+Name : kworker/2:1H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 195
+Name : kworker/1:1H-kblockd
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 196
+Name : kworker/3:1H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 197
+Name : kworker/5:1H-events_highpri
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 232
+Name : kworker/R-nvme-
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 233
+Name : kworker/R-nvme-
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 234
+Name : kworker/R-nvme-
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 235
+Name : kworker/R-nvme-
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 254
+Name : scsi_eh_0
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 255
+Name : kworker/R-scsi_
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 258
+Name : scsi_eh_1
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 259
+Name : kworker/R-scsi_
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 260
+Name : scsi_eh_2
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 261
+Name : kworker/R-scsi_
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 262
+Name : scsi_eh_3
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 263
+Name : kworker/R-scsi_
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 264
+Name : scsi_eh_4
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 265
+Name : kworker/R-scsi_
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 266
+Name : scsi_eh_5
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 267
+Name : kworker/R-scsi_
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 268
+Name : scsi_eh_6
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 269
+Name : kworker/R-scsi_
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 270
+Name : scsi_eh_7
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 271
+Name : kworker/R-scsi_
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 276
+Name : irq/136-ELAN06FA:00
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:30
+CPU % : 4.70
+Memory % : 0.00
+----------------------------------------------------
+PID : 279
+Name : kworker/R-USBC0
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:30
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 300
+Name : jbd2/nvme0n1p2-8
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:31
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 301
+Name : kworker/R-ext4-
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:31
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 342
+Name : systemd-journald
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:32
+CPU % : 0.00
+Memory % : 0.46
+----------------------------------------------------
+PID : 397
+Name : systemd-udevd
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:32
+CPU % : 0.00
+Memory % : 0.05
+----------------------------------------------------
+PID : 457
+Name : irq/16-processor_thermal_device_pci
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:32
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 491
+Name : kworker/R-cfg80
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:32
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 500
+Name : nv_queue
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:32
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 501
+Name : nv_queue
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:32
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 538
+Name : systemd-oomd
+UserName : systemd-oom
+Status : sleeping
+Start Time : 2026-02-07 17:23:32
+CPU % : 0.00
+Memory % : 0.04
+----------------------------------------------------
+PID : 539
+Name : systemd-resolved
+UserName : systemd-resolve
+Status : sleeping
+Start Time : 2026-02-07 17:23:32
+CPU % : 0.00
+Memory % : 0.09
+----------------------------------------------------
+PID : 540
+Name : systemd-timesyncd
+UserName : systemd-timesync
+Status : sleeping
+Start Time : 2026-02-07 17:23:32
+CPU % : 0.00
+Memory % : 0.05
+----------------------------------------------------
+PID : 548
+Name : nvidia-modeset/kthread_q
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:32
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 549
+Name : nvidia-modeset/deferred_close_kthread_q
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:32
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 551
+Name : kworker/R-ttm
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:32
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 552
+Name : irq/151-nvidia
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:32
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 554
+Name : nv_queue
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:32
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 555
+Name : kworker/R-crypt
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:32
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 559
+Name : card1-crtc0
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:32
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 560
+Name : card1-crtc1
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:32
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 561
+Name : card1-crtc2
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:32
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 562
+Name : card1-crtc3
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:32
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 601
+Name : accounts-daemon
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.06
+----------------------------------------------------
+PID : 602
+Name : acpid
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.01
+----------------------------------------------------
+PID : 611
+Name : avahi-daemon
+UserName : avahi
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.03
+----------------------------------------------------
+PID : 612
+Name : cron
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.02
+----------------------------------------------------
+PID : 613
+Name : dbus-daemon
+UserName : messagebus
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.04
+----------------------------------------------------
+PID : 616
+Name : NetworkManager
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.14
+----------------------------------------------------
+PID : 623
+Name : irqbalance
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.03
+----------------------------------------------------
+PID : 627
+Name : networkd-dispat
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.13
+----------------------------------------------------
+PID : 630
+Name : polkitd
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.08
+----------------------------------------------------
+PID : 632
+Name : power-profiles-daemon
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.06
+----------------------------------------------------
+PID : 634
+Name : rsyslogd
+UserName : syslog
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.04
+----------------------------------------------------
+PID : 642
+Name : snapd
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.26
+----------------------------------------------------
+PID : 649
+Name : switcheroo-control
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.04
+----------------------------------------------------
+PID : 650
+Name : systemd-logind
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.05
+----------------------------------------------------
+PID : 662
+Name : thermald
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.07
+----------------------------------------------------
+PID : 664
+Name : udisksd
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.10
+----------------------------------------------------
+PID : 670
+Name : wpa_supplicant
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.07
+----------------------------------------------------
+PID : 681
+Name : avahi-daemon
+UserName : avahi
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.01
+----------------------------------------------------
+PID : 697
+Name : bluetoothd
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.03
+----------------------------------------------------
+PID : 714
+Name : ModemManager
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.09
+----------------------------------------------------
+PID : 716
+Name : cupsd
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.09
+----------------------------------------------------
+PID : 745
+Name : unattended-upgr
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.15
+----------------------------------------------------
+PID : 773
+Name : irq/153-rtw89_pci
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 787
+Name : upowerd
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.06
+----------------------------------------------------
+PID : 864
+Name : UVM global queue
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 865
+Name : UVM deferred release queue
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 866
+Name : UVM Tools Event Queue
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 910
+Name : nvidia-persistenced
+UserName : nvidia-persistenced
+Status : sleeping
+Start Time : 2026-02-07 17:23:33
+CPU % : 0.00
+Memory % : 0.01
+----------------------------------------------------
+PID : 1206
+Name : gdm3
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:34
+CPU % : 0.00
+Memory % : 0.06
+----------------------------------------------------
+PID : 1236
+Name : rtkit-daemon
+UserName : rtkit
+Status : sleeping
+Start Time : 2026-02-07 17:23:35
+CPU % : 0.00
+Memory % : 0.02
+----------------------------------------------------
+PID : 1460
+Name : packagekitd
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:37
+CPU % : 0.00
+Memory % : 0.28
+----------------------------------------------------
+PID : 1588
+Name : colord
+UserName : colord
+Status : sleeping
+Start Time : 2026-02-07 17:23:37
+CPU % : 0.00
+Memory % : 0.10
+----------------------------------------------------
+PID : 1719
+Name : cups-browsed
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:39
+CPU % : 0.00
+Memory % : 0.07
+----------------------------------------------------
+PID : 1721
+Name : mongod
+UserName : mongodb
+Status : sleeping
+Start Time : 2026-02-07 17:23:39
+CPU % : 9.40
+Memory % : 0.94
+----------------------------------------------------
+PID : 1723
+Name : kerneloops
+UserName : kernoops
+Status : sleeping
+Start Time : 2026-02-07 17:23:39
+CPU % : 0.00
+Memory % : 0.01
+----------------------------------------------------
+PID : 1725
+Name : kerneloops
+UserName : kernoops
+Status : sleeping
+Start Time : 2026-02-07 17:23:39
+CPU % : 0.00
+Memory % : 0.01
+----------------------------------------------------
+PID : 1769
+Name : kworker/9:2-events
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:23:41
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 1770
+Name : gdm-session-worker
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:41
+CPU % : 0.00
+Memory % : 0.07
+----------------------------------------------------
+PID : 1778
+Name : systemd
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:43
+CPU % : 0.00
+Memory % : 0.07
+----------------------------------------------------
+PID : 1779
+Name : (sd-pam)
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:43
+CPU % : 0.00
+Memory % : 0.04
+----------------------------------------------------
+PID : 1787
+Name : pipewire
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:43
+CPU % : 0.00
+Memory % : 0.04
+----------------------------------------------------
+PID : 1788
+Name : pipewire-media-session
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:43
+CPU % : 0.00
+Memory % : 0.04
+----------------------------------------------------
+PID : 1789
+Name : pulseaudio
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:43
+CPU % : 0.00
+Memory % : 0.18
+----------------------------------------------------
+PID : 1798
+Name : gnome-keyring-daemon
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:43
+CPU % : 0.00
+Memory % : 0.05
+----------------------------------------------------
+PID : 1811
+Name : dbus-daemon
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:43
+CPU % : 0.00
+Memory % : 0.04
+----------------------------------------------------
+PID : 1817
+Name : krfcommd
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:43
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 1835
+Name : xdg-document-portal
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:43
+CPU % : 0.00
+Memory % : 0.05
+----------------------------------------------------
+PID : 1838
+Name : xdg-permission-store
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:43
+CPU % : 0.00
+Memory % : 0.04
+----------------------------------------------------
+PID : 1844
+Name : fusermount3
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:43
+CPU % : 0.00
+Memory % : 0.01
+----------------------------------------------------
+PID : 1861
+Name : gdm-x-session
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:44
+CPU % : 0.00
+Memory % : 0.04
+----------------------------------------------------
+PID : 1863
+Name : Xorg
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:44
+CPU % : 4.70
+Memory % : 1.07
+----------------------------------------------------
+PID : 1963
+Name : gnome-session-binary
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:45
+CPU % : 0.00
+Memory % : 0.10
+----------------------------------------------------
+PID : 1972
+Name : gvfsd
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:45
+CPU % : 0.00
+Memory % : 0.05
+----------------------------------------------------
+PID : 1977
+Name : gvfsd-fuse
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:45
+CPU % : 0.00
+Memory % : 0.05
+----------------------------------------------------
+PID : 2073
+Name : at-spi-bus-launcher
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:45
+CPU % : 0.00
+Memory % : 0.07
+----------------------------------------------------
+PID : 2079
+Name : dbus-daemon
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:45
+CPU % : 0.00
+Memory % : 0.03
+----------------------------------------------------
+PID : 2096
+Name : gnome-session-ctl
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:45
+CPU % : 0.00
+Memory % : 0.04
+----------------------------------------------------
+PID : 2108
+Name : gnome-session-binary
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:45
+CPU % : 0.00
+Memory % : 0.11
+----------------------------------------------------
+PID : 2131
+Name : gnome-shell
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:45
+CPU % : 4.70
+Memory % : 1.99
+----------------------------------------------------
+PID : 2172
+Name : gnome-shell-calendar-server
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.12
+----------------------------------------------------
+PID : 2179
+Name : evolution-source-registry
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.17
+----------------------------------------------------
+PID : 2186
+Name : goa-daemon
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.26
+----------------------------------------------------
+PID : 2187
+Name : dconf-service
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.04
+----------------------------------------------------
+PID : 2188
+Name : gvfs-udisks2-volume-monitor
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.08
+----------------------------------------------------
+PID : 2195
+Name : evolution-calendar-factory
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.20
+----------------------------------------------------
+PID : 2200
+Name : gvfs-gphoto2-volume-monitor
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.05
+----------------------------------------------------
+PID : 2207
+Name : goa-identity-service
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.11
+----------------------------------------------------
+PID : 2216
+Name : gvfs-afc-volume-monitor
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.05
+----------------------------------------------------
+PID : 2224
+Name : gvfs-mtp-volume-monitor
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.04
+----------------------------------------------------
+PID : 2227
+Name : evolution-addressbook-factory
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.18
+----------------------------------------------------
+PID : 2233
+Name : gvfs-goa-volume-monitor
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.04
+----------------------------------------------------
+PID : 2252
+Name : gjs
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.18
+----------------------------------------------------
+PID : 2254
+Name : at-spi2-registryd
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.05
+----------------------------------------------------
+PID : 2260
+Name : gvfsd-trash
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.07
+----------------------------------------------------
+PID : 2281
+Name : sh
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.01
+----------------------------------------------------
+PID : 2282
+Name : gsd-a11y-settings
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.06
+----------------------------------------------------
+PID : 2283
+Name : gsd-color
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.18
+----------------------------------------------------
+PID : 2285
+Name : ibus-daemon
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.09
+----------------------------------------------------
+PID : 2287
+Name : gsd-datetime
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.11
+----------------------------------------------------
+PID : 2289
+Name : gsd-housekeeping
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.06
+----------------------------------------------------
+PID : 2292
+Name : gsd-keyboard
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.17
+----------------------------------------------------
+PID : 2294
+Name : gsd-media-keys
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.19
+----------------------------------------------------
+PID : 2297
+Name : gsd-power
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.19
+----------------------------------------------------
+PID : 2299
+Name : gsd-print-notifications
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.07
+----------------------------------------------------
+PID : 2303
+Name : gsd-rfkill
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.04
+----------------------------------------------------
+PID : 2304
+Name : gsd-screensaver-proxy
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.04
+----------------------------------------------------
+PID : 2309
+Name : gsd-sharing
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.08
+----------------------------------------------------
+PID : 2310
+Name : gsd-smartcard
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.07
+----------------------------------------------------
+PID : 2311
+Name : gsd-sound
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.07
+----------------------------------------------------
+PID : 2312
+Name : gsd-wacom
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.17
+----------------------------------------------------
+PID : 2314
+Name : gsd-xsettings
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.18
+----------------------------------------------------
+PID : 2322
+Name : evolution-alarm-notify
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.41
+----------------------------------------------------
+PID : 2328
+Name : gsd-disk-utility-notify
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.05
+----------------------------------------------------
+PID : 2384
+Name : ibus-memconf
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.06
+----------------------------------------------------
+PID : 2385
+Name : ibus-extension-gtk3
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.20
+----------------------------------------------------
+PID : 2388
+Name : ibus-x11
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.17
+----------------------------------------------------
+PID : 2390
+Name : ibus-portal
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.06
+----------------------------------------------------
+PID : 2393
+Name : xdg-desktop-portal
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.09
+----------------------------------------------------
+PID : 2402
+Name : gsd-printer
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.09
+----------------------------------------------------
+PID : 2426
+Name : xdg-desktop-portal-gnome
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.66
+----------------------------------------------------
+PID : 2450
+Name : gjs
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.18
+----------------------------------------------------
+PID : 2483
+Name : snap-store
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.97
+----------------------------------------------------
+PID : 2515
+Name : ibus-engine-simple
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.06
+----------------------------------------------------
+PID : 2530
+Name : snapd-desktop-integration
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.08
+----------------------------------------------------
+PID : 2531
+Name : tracker-miner-fs-3
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.24
+----------------------------------------------------
+PID : 2635
+Name : snapd-desktop-integration
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.69
+----------------------------------------------------
+PID : 2686
+Name : xdg-desktop-portal-gtk
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:46
+CPU % : 0.00
+Memory % : 0.17
+----------------------------------------------------
+PID : 2795
+Name : fwupd
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 17:23:47
+CPU % : 0.00
+Memory % : 0.19
+----------------------------------------------------
+PID : 2879
+Name : gvfsd-metadata
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:48
+CPU % : 0.00
+Memory % : 0.04
+----------------------------------------------------
+PID : 3510
+Name : nautilus
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:23:59
+CPU % : 0.00
+Memory % : 0.68
+----------------------------------------------------
+PID : 3591
+Name : update-notifier
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:24:46
+CPU % : 0.00
+Memory % : 0.23
+----------------------------------------------------
+PID : 3995
+Name : gnome-terminal
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:41:26
+CPU % : 0.00
+Memory % : 0.12
+----------------------------------------------------
+PID : 3998
+Name : gnome-terminal.real
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:41:26
+CPU % : 0.00
+Memory % : 0.18
+----------------------------------------------------
+PID : 4002
+Name : gnome-terminal-server
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:41:26
+CPU % : 0.00
+Memory % : 0.43
+----------------------------------------------------
+PID : 4033
+Name : bash
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:41:26
+CPU % : 0.00
+Memory % : 0.06
+----------------------------------------------------
+PID : 5188
+Name : gvfsd-network
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:44:28
+CPU % : 0.00
+Memory % : 0.07
+----------------------------------------------------
+PID : 5205
+Name : gvfsd-dnssd
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:44:28
+CPU % : 0.00
+Memory % : 0.06
+----------------------------------------------------
+PID : 5306
+Name : code
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:45:42
+CPU % : 0.00
+Memory % : 1.42
+----------------------------------------------------
+PID : 5309
+Name : code
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:45:42
+CPU % : 0.00
+Memory % : 0.31
+----------------------------------------------------
+PID : 5310
+Name : code
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:45:42
+CPU % : 0.00
+Memory % : 0.31
+----------------------------------------------------
+PID : 5312
+Name : code
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:45:42
+CPU % : 0.00
+Memory % : 0.08
+----------------------------------------------------
+PID : 5327
+Name : chrome_crashpad_handler
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:45:43
+CPU % : 0.00
+Memory % : 0.02
+----------------------------------------------------
+PID : 5345
+Name : code
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:45:43
+CPU % : 0.00
+Memory % : 0.97
+----------------------------------------------------
+PID : 5351
+Name : code
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:45:43
+CPU % : 0.00
+Memory % : 0.47
+----------------------------------------------------
+PID : 5369
+Name : code
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:45:43
+CPU % : 0.00
+Memory % : 2.83
+----------------------------------------------------
+PID : 5418
+Name : code
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:45:45
+CPU % : 0.00
+Memory % : 0.76
+----------------------------------------------------
+PID : 5419
+Name : code
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:45:45
+CPU % : 0.00
+Memory % : 0.70
+----------------------------------------------------
+PID : 5447
+Name : code
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 17:45:45
+CPU % : 4.60
+Memory % : 1.36
+----------------------------------------------------
+PID : 5661
+Name : kworker/1:2-mm_percpu_wq
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:55:25
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 5991
+Name : kworker/0:0-mm_percpu_wq
+UserName : root
+Status : idle
+Start Time : 2026-02-07 17:55:46
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 6072
+Name : kworker/8:2-mm_percpu_wq
+UserName : root
+Status : idle
+Start Time : 2026-02-07 18:09:33
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 6322
+Name : pet
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 18:10:04
+CPU % : 0.00
+Memory % : 0.03
+----------------------------------------------------
+PID : 6525
+Name : code
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 18:10:04
+CPU % : 0.00
+Memory % : 0.70
+----------------------------------------------------
+PID : 6550
+Name : bash
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 18:10:04
+CPU % : 0.00
+Memory % : 0.06
+----------------------------------------------------
+PID : 6735
+Name : code
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 18:10:06
+CPU % : 0.00
+Memory % : 5.51
+----------------------------------------------------
+PID : 6920
+Name : chrome
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 18:15:08
+CPU % : 0.00
+Memory % : 1.77
+----------------------------------------------------
+PID : 6926
+Name : cat
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 18:15:08
+CPU % : 0.00
+Memory % : 0.01
+----------------------------------------------------
+PID : 6927
+Name : cat
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 18:15:08
+CPU % : 0.00
+Memory % : 0.01
+----------------------------------------------------
+PID : 6929
+Name : chrome_crashpad_handler
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 18:15:08
+CPU % : 0.00
+Memory % : 0.02
+----------------------------------------------------
+PID : 6931
+Name : chrome_crashpad_handler
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 18:15:08
+CPU % : 0.00
+Memory % : 0.02
+----------------------------------------------------
+PID : 6937
+Name : chrome
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 18:15:08
+CPU % : 0.00
+Memory % : 0.40
+----------------------------------------------------
+PID : 6938
+Name : chrome
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 18:15:08
+CPU % : 0.00
+Memory % : 0.39
+----------------------------------------------------
+PID : 6940
+Name : chrome
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 18:15:08
+CPU % : 0.00
+Memory % : 0.11
+----------------------------------------------------
+PID : 6968
+Name : chrome
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 18:15:08
+CPU % : 0.00
+Memory % : 1.03
+----------------------------------------------------
+PID : 6970
+Name : chrome
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 18:15:08
+CPU % : 0.00
+Memory % : 0.78
+----------------------------------------------------
+PID : 6981
+Name : chrome
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 18:15:08
+CPU % : 0.00
+Memory % : 0.36
+----------------------------------------------------
+PID : 6998
+Name : chrome
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 18:15:08
+CPU % : 0.00
+Memory % : 0.80
+----------------------------------------------------
+PID : 6999
+Name : chrome
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 18:15:08
+CPU % : 0.00
+Memory % : 0.94
+----------------------------------------------------
+PID : 7097
+Name : chrome
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 18:15:08
+CPU % : 0.00
+Memory % : 0.90
+----------------------------------------------------
+PID : 7148
+Name : chrome
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 18:15:10
+CPU % : 0.00
+Memory % : 0.77
+----------------------------------------------------
+PID : 9165
+Name : python
+UserName : shub
+Status : stopped
+Start Time : 2026-02-07 19:10:15
+CPU % : 0.00
+Memory % : 0.08
+----------------------------------------------------
+PID : 9563
+Name : python
+UserName : shub
+Status : stopped
+Start Time : 2026-02-07 19:21:24
+CPU % : 0.00
+Memory % : 0.08
+----------------------------------------------------
+PID : 9721
+Name : kworker/3:0-i915-unordered
+UserName : root
+Status : idle
+Start Time : 2026-02-07 19:22:36
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 9740
+Name : python
+UserName : shub
+Status : stopped
+Start Time : 2026-02-07 19:23:01
+CPU % : 0.00
+Memory % : 0.08
+----------------------------------------------------
+PID : 9953
+Name : kworker/1:0-events
+UserName : root
+Status : idle
+Start Time : 2026-02-07 19:32:10
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 9954
+Name : kworker/6:0-events
+UserName : root
+Status : idle
+Start Time : 2026-02-07 19:32:27
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 10042
+Name : kworker/0:2-kacpi_notify
+UserName : root
+Status : idle
+Start Time : 2026-02-07 19:33:04
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 10046
+Name : kworker/4:3-events
+UserName : root
+Status : idle
+Start Time : 2026-02-07 19:34:14
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 10051
+Name : kworker/3:1-events
+UserName : root
+Status : idle
+Start Time : 2026-02-07 19:34:15
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 10102
+Name : kworker/2:7-mm_percpu_wq
+UserName : root
+Status : idle
+Start Time : 2026-02-07 19:36:39
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 10131
+Name : kworker/7:0-events
+UserName : root
+Status : idle
+Start Time : 2026-02-07 19:37:21
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 10147
+Name : kworker/11:0-i915-unordered
+UserName : root
+Status : idle
+Start Time : 2026-02-07 19:37:24
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 10227
+Name : irq/137-mei_me
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 19:50:38
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 10248
+Name : nvidia
+UserName : root
+Status : sleeping
+Start Time : 2026-02-07 19:50:39
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 10337
+Name : gjs
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 19:50:43
+CPU % : 0.00
+Memory % : 0.38
+----------------------------------------------------
+PID : 10421
+Name : kworker/u25:3-i915_flip
+UserName : root
+Status : idle
+Start Time : 2026-02-07 19:50:46
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 10512
+Name : python
+UserName : shub
+Status : stopped
+Start Time : 2026-02-07 19:52:59
+CPU % : 0.00
+Memory % : 0.08
+----------------------------------------------------
+PID : 10625
+Name : python
+UserName : shub
+Status : stopped
+Start Time : 2026-02-07 19:56:21
+CPU % : 0.00
+Memory % : 0.08
+----------------------------------------------------
+PID : 10812
+Name : python
+UserName : shub
+Status : stopped
+Start Time : 2026-02-07 20:01:40
+CPU % : 0.00
+Memory % : 0.08
+----------------------------------------------------
+PID : 10957
+Name : python
+UserName : shub
+Status : stopped
+Start Time : 2026-02-07 20:12:05
+CPU % : 0.00
+Memory % : 0.08
+----------------------------------------------------
+PID : 11112
+Name : kworker/10:0-mm_percpu_wq
+UserName : root
+Status : idle
+Start Time : 2026-02-07 20:18:08
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 11595
+Name : python
+UserName : shub
+Status : stopped
+Start Time : 2026-02-07 20:30:41
+CPU % : 0.00
+Memory % : 0.08
+----------------------------------------------------
+PID : 11681
+Name : kworker/11:1-events
+UserName : root
+Status : idle
+Start Time : 2026-02-07 20:31:53
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 11685
+Name : kworker/5:0-i915-unordered
+UserName : root
+Status : idle
+Start Time : 2026-02-07 20:31:54
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 11686
+Name : kworker/2:0-events_freezable
+UserName : root
+Status : idle
+Start Time : 2026-02-07 20:32:10
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 11702
+Name : kworker/4:1
+UserName : root
+Status : idle
+Start Time : 2026-02-07 20:32:59
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 11725
+Name : python
+UserName : shub
+Status : stopped
+Start Time : 2026-02-07 20:35:20
+CPU % : 0.00
+Memory % : 0.08
+----------------------------------------------------
+PID : 12051
+Name : kworker/10:2
+UserName : root
+Status : idle
+Start Time : 2026-02-07 20:45:55
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 12087
+Name : kworker/u24:1-i915
+UserName : root
+Status : idle
+Start Time : 2026-02-07 20:49:23
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 12370
+Name : kworker/u24:3-events_power_efficient
+UserName : root
+Status : idle
+Start Time : 2026-02-07 20:56:40
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 12384
+Name : kworker/u25:0-rtw89_tx_wq
+UserName : root
+Status : idle
+Start Time : 2026-02-07 20:57:19
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 12402
+Name : kworker/5:1-i915-unordered
+UserName : root
+Status : idle
+Start Time : 2026-02-07 20:57:45
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 12557
+Name : kworker/u24:4-events_power_efficient
+UserName : root
+Status : idle
+Start Time : 2026-02-07 21:00:56
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 12766
+Name : kworker/9:0-i915-unordered
+UserName : root
+Status : idle
+Start Time : 2026-02-07 21:05:49
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 12790
+Name : kworker/6:1-events
+UserName : root
+Status : idle
+Start Time : 2026-02-07 21:06:04
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 12869
+Name : kworker/8:1
+UserName : root
+Status : idle
+Start Time : 2026-02-07 21:07:58
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 12902
+Name : kworker/u24:0-events_unbound
+UserName : root
+Status : idle
+Start Time : 2026-02-07 21:09:08
+CPU % : 9.10
+Memory % : 0.00
+----------------------------------------------------
+PID : 12980
+Name : chrome
+UserName : shub
+Status : sleeping
+Start Time : 2026-02-07 21:10:32
+CPU % : 0.00
+Memory % : 0.44
+----------------------------------------------------
+PID : 13001
+Name : python
+UserName : shub
+Status : running
+Start Time : 2026-02-07 21:10:49
+CPU % : 13.60
+Memory % : 0.09
+----------------------------------------------------
+PID : 13092
+Name : kworker/6:2+events
+UserName : root
+Status : running
+Start Time : 2026-02-07 21:11:55
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 13094
+Name : kworker/u24:2-events_unbound
+UserName : root
+Status : idle
+Start Time : 2026-02-07 21:11:55
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 13095
+Name : kworker/u24:5
+UserName : root
+Status : idle
+Start Time : 2026-02-07 21:11:55
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+PID : 13096
+Name : kworker/0:1
+UserName : root
+Status : idle
+Start Time : 2026-02-07 21:11:55
+CPU % : 0.00
+Memory % : 0.00
+----------------------------------------------------
+----------------------------------------------------
+-------------------- END OF LOG FILE -------------------
+----------------------------------------------------
