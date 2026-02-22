@@ -40,6 +40,7 @@ def FindDuplicate(DirectoryName= "Marvellous"):
 
             if Checksum in Duplicate:
                 Duplicate[Checksum].append(fname)
+                
             else:
                 Duplicate[Checksum] = [fname]
         

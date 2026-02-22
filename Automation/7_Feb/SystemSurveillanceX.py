@@ -51,6 +51,7 @@ def CreateLog(FolderName):
 
     fobj.write("\nDisk Usage Report\n")
     fobj.write(Border+"\n")
+    
     for part in psutil.disk_partitions():
         try:
             usage = psutil.disk_usage(part.mountpoint)
@@ -76,6 +77,7 @@ def CreateLog(FolderName):
     for info in Data :
         fobj.write("PID : %s\n" %info.get("pid"))
         fobj.write("Name : %s\n" %info.get("name"))
+        fobj.write("Thread Count : %s\n" %info.get("thread_count"))
         fobj.write("UserName : %s\n" %info.get("username"))
         fobj.write("Status : %s\n" %info.get("status"))
         fobj.write("Start Time : %s\n" %info.get("create_time"))
@@ -105,7 +107,7 @@ def ProcessScan():
     for proc in psutil.process_iter():
 
         try:
-            info = proc.as_dict(attrs=["pid","name","username","status","create_time"])
+            info = proc.as_dict(attrs=["pid","name","username","status","create_time","thread_count"])
             #Convert Create Time
             try:
                 info["create_time"] = time.strftime("%Y-%m-%d %H:%M:%S",time.localtime(info["create_time"]))
@@ -114,7 +116,7 @@ def ProcessScan():
             
             info["cpu_percent"] = proc.cpu_percent(None)
             info["memory_percent"] = proc.memory_percent()
-
+            info["thread_count"] = proc.num_threads()   
             listprocess.append(info)
 
         except(psutil.NoSuchProcess,psutil.AccessDenied,psutil.ZombieProcess):
