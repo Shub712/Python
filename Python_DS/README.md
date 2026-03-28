@@ -1,4 +1,4 @@
-# 📚 Python Data Structures (python ds)
+# 📚 Python Data Structures (Python_DS)
 
 This folder contains implementations of core Data Structures in Python using an object-oriented approach.
 
