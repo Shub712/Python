@@ -18,8 +18,10 @@ import numpy as np
 def Sigmoid(z):
     """
     Sigmoid Function
-    Formula : 1 / (1 + e^(-z))
+    Formula : 1 / (1 + e^(-z)) 
     """
+    
+    # e = 2.71
     
     return 1 / (1 + math.exp(-z))
 

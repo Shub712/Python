@@ -1,5 +1,4 @@
 # import numpy for numerical operation
-
 import numpy as np
 
 #-------------------------------------------------
@@ -60,8 +59,8 @@ output = relu(weighted_sum)
 # Step 7 : Display Results
 #-------------------------------------------------
 
-print("Inputs   :", inputs)
-print("Weights  : ", weights)
-print("Bias     : ",bias)
+print("Inputs           : ", inputs)
+print("Weights          : ", weights)
+print("Bias             : ", bias)
 print("Weighted Sum (Z) : ", weighted_sum)
 print("Final Output     : ", output)

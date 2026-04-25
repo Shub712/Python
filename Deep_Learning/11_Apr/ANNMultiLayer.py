@@ -1,6 +1,6 @@
 #-------------------------------------------------------
 # Network Structure :
-#   Input Layer : 2 Inputs
+#   Input Layer :  2 Inputs``
 #   Hidden Layer : 2 neurons with ReLU activation
 #   Output Layer : 1 neuron with sigmoid activation
 #
@@ -187,7 +187,6 @@ def Marvellous_ANN_Forward_Pass(inputs):
     output_bias = 0.2
     
     # Process Hidden layer
-    
     Hidden_outputs = Marvellous_Process_Hidden_Layer(
         inputs,
         hidden_weights,
@@ -195,7 +194,6 @@ def Marvellous_ANN_Forward_Pass(inputs):
     )
     
     # Process output layer
-    
     z_output,final_output = Marvellous_Process_Output_Layer(
         Hidden_outputs,
         output_weights,
