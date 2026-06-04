@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-Duplicate File Remover is a Python-based utility that scans a specified directory and its subdirectories to identify files with identical content. The application generates MD5 checksums for every file and compares them to detect duplicates.
+Disk Sanitizer is a Python-based utility that scans a specified directory and its subdirectories to identify files with identical content. The application generates MD5 checksums for every file and compares them to detect duplicates.
 
 Once duplicate files are identified, the script automatically removes redundant copies while keeping a single original file, helping users free up disk space and maintain organized storage.
 
